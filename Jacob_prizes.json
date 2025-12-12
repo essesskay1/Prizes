@@ -1,5 +1,5 @@
 [
-  "$candy",
+  "$1",
   "$20",
   "$5",
   "$5",
@@ -17,7 +17,7 @@
   "$3",
   "floss",
   "gum",
-  "$2",
+  "Pick up lunch from an UberEats order up to $15",
   "$50 Ubereats giftcard",
   "Sorry, this box is empty",
   "$12",
@@ -25,13 +25,13 @@
   "$25",
   "$6",
   "$1",
-  "$30",
+  "Fandango gift card $25",
   "$8",
   "$2",
-  "$35",
+  "Fandango gift card $25",
   "mints",
   "$2",
-  "$40",
+  "$20",
   "$9",
   "$5",
   "Sorry, this box is empty",
@@ -50,5 +50,4 @@
   "$3",
   "$7"
 ]
-
 
